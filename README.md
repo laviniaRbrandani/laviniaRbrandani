@@ -1,7 +1,7 @@
 ### Hi 😀</br>
  
  
-- 👋 Meu nome é Lavínia, tenho 20 anos e sou uma pequena aprendiz da área de programação.
+- 👋 Meu nome é Lavínia Brandani, tenho 20 anos e sou uma aprendiz da área de programação.
 - 📚 Sou estudante do 5° período de Sistemas de Informação na FAI.</br>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
