@@ -2,8 +2,7 @@
  
  
 - 👋 Meu nome é Lavínia, tenho 20 anos e sou uma pequena aprendiz da área de programação.
-- 📚 Sou estudante do 5° período de Sistemas de Informação na FAI.
-- 💻 Estou buscando aprender mais sobre:</br>
+- 📚 Sou estudante do 5° período de Sistemas de Informação na FAI.</br>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
