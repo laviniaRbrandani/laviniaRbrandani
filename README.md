@@ -1,4 +1,4 @@
-### Hi people 👋😎</br>
+### Hi 👋</br>
  
  
 - 👋 Meu nome é Lavínia, tenho 20 anos e sou uma pequena aprendiz da área de programação.
@@ -9,15 +9,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-
-
-- 🚀 **Entre as minhas metade 2024, está:**</br>
-
-     📍 Evoluir no aprendizado da língua inglesa. </br>
-     🍀 Começar um estágio na área. </br>
-- ⚡ Curiosidades: </br>
-     🤾🏻‍♀️ Sou apaixonada por handebol. 🤾🏻‍♀️ </br> 
-     👀 Tenho linkedIn mas não sei manipular muito bem a ferramenta. </br> </br>
 
 
 <div>
