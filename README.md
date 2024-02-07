@@ -1,4 +1,4 @@
-### Hi 👋</br>
+### Hi 😀</br>
  
  
 - 👋 Meu nome é Lavínia, tenho 20 anos e sou uma pequena aprendiz da área de programação.
